@@ -1,17 +1,26 @@
-**User Story**
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+# Horiseon Company Website
 
-**Acceptance Criteria**
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+Welcome to the official repository for Horiseon's company website. This repository contains the source code for Horiseon's website, showcasing their services in search engine optimization, online reputation management, and social media marketing.
+
+## Overview
+
+Horiseon's website is designed to inform visitors about the importance of search engine optimization, online reputation management, and social media marketing in today's digital landscape. The website highlights the benefits of these services and how they can positively impact a business.
+
+## Website URL
+
+Visit the website: [https://yourcompanyname.github.io](https://yourcompanyname.github.io)
+
+## Features
+
+- **Services:** Learn about Horiseon's core services:
+  - [Search Engine Optimization](#search-engine-optimization)
+  - [Online Reputation Management](#online-reputation-management)
+  - [Social Media Marketing](#social-media-marketing)
+- **Benefits:** Understand the advantages of Horiseon's services, including lead generation, brand awareness, and cost management.
+
+## How to Use This Repository
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/yourcompanyname/yourcompanyname.github.io.git
+
