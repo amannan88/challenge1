@@ -22,5 +22,4 @@ Visit the website: [(https://amannan88.github.io/challenge1/)]
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourcompanyname/yourcompanyname.github.io.git
-
+   git clone [https://github.com/amannan88/challenge1.git]
